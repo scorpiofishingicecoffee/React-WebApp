@@ -35,9 +35,9 @@ command: json-server --watch db.json
 
 ~~Follow the instructions on this repo to setup the generator: create-react-app (Links to an external site.)~~
 
-Your app should have one HTML page to render your react application
+~~Your app should have one HTML page to render your react application~~
 
-Your app should use multiple components in a way that keeps your code well organized.
+~~Your app should use multiple components in a way that keeps your code well organized.~~
 
 There should be 3 routes
 
