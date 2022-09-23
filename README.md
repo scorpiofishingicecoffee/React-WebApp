@@ -39,7 +39,7 @@ command: json-server --watch db.json
 
 ~~Your app should use multiple components in a way that keeps your code well organized.~~
 
-There should be 3 routes
+~~There should be 3 routes~~
 
 The Application must make use of react-router and proper RESTful routing (should you choose to use react-router v3 please refer to the appropriate docs (Links to an external site.); docs for v4 can be found here (Links to an external site.))
 
