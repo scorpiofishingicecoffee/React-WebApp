@@ -45,7 +45,7 @@ command: json-server --watch db.json
 
 ~~There should be 3 routes~~
 
-The Application must make use of react-router and proper RESTful routing (should you choose to use react-router v3 please refer to the appropriate docs (Links to an external site.); docs for v4 can be found here (Links to an external site.))
+~~The Application must make use of react-router and proper RESTful routing (should you choose to use react-router v3 please refer to the appropriate docs (Links to an external site.); docs for v4 can be found here (Links to an external site.))~~
 
 
 ~~Your app must incorporate API data. This data can be from a public API or from a GitHub JSON file you create~~
