@@ -12,7 +12,7 @@ A react app which fetches data from an api with react router dom
 
 # Instruction for contributors and developers
 
-<a href="https://youtu.be/MPCkA78iXEE"> Walkthrough<a>
+<a href="https://youtu.be/MPCkA78iXEE"> Walkthrough video<a>
   
 
 -------------------------
