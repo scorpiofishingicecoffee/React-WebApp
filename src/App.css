@@ -1,0 +1,110 @@
+html {
+  background: #7f7fd5;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #91eae4, #86a8e7, #7f7fd5);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #91eae4, #86a8e7, #7f7fd5);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+   scroll-behavior: smooth;
+}
+
+.App {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+   scroll-behavior: smooth;
+}
+
+.App-btn{
+            font-size: 1.8rem;
+background: #12c2e9;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #f64f59, #c471ed, #12c2e9);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #f64f59, #c471ed, #12c2e9);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  padding: 20px 60px;
+  border: none;
+  border-radius: 4px;
+  margin-top: 2rem;
+  cursor: pointer;
+  position: relative;
+  transition: all 0.35s;
+  outline: none;
+}
+
+.App-btn a {
+  position: relative;
+  z-index: 2;
+  color: #fff;
+  text-decoration: none;
+}
+
+.App-btn:after {
+  position: absolute;
+  content: '';
+  top: 0;
+  left: 0;
+  width: 0;
+  height: 100%;
+  background: #ff1ead;
+  transition: all 0.35s;
+  border-radius: 4px;
+}
+
+.App-btn:hover {
+  color: #fff;
+}
+
+.App-btn:hover:after {
+  width: 100%;
+}
+
+.img {
+  border-radius: 8px;
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.img:hover{
+
+  -webkit-transform:scale(1.20);
+  -moz-transform:scale(1.20);
+  -ms-transform:scale(1.20);
+  -o-transform:scale(1.20);
+  transform:scale(1.20);
+}
+
+.Container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 40px 0;
+}
+
+.Card {
+          border-radius: 8px;
+  height: 500px;
+  max-width: 200px;
+  position: relative;
+  margin: 5px 5px;
+  padding: 5px 5px;
+  display: flex;
+  flex-direction: column;
+  background: #12c2e9;
+  box-shadow: 0 5px 202px #7f7fd5;;
+  transition: 0.3s ease-in-out;
+}
+
+.Card:hover{
+            background:  #ff1ead;
+  box-shadow: 0px 15px 26px rgba(0, 0, 0, 0.50);
+  /*box-shadow: 0px 15px 26px rgba(0, 0, 0, 0.50);*/
+  -webkit-transition: all 0.2s ease-in;
+  -moz-transition: all 0.2s ease-in;
+  -ms-transition: all 0.2s ease-in;
+  -o-transition: all 0.2s ease-in;
+  transition: all 0.2s ease-in;
+  margin-top: 50px;
+}
