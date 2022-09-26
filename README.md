@@ -37,7 +37,9 @@ A repo for a React JS app which fetches api data from a rawg api.
 This will show up because there is no Route for React-WebApp/
 ![Screenshot (76)](https://user-images.githubusercontent.com/105265074/192173459-99f7797f-7230-4be5-969f-f3c84fa35cc2.png)
 
-<h2>Please Click on the HOME button</h2>
+To get rid of this:
+
+Click on the Home Button and the buttons provided.
 
 -----------------------------
 
