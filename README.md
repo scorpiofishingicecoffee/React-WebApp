@@ -72,7 +72,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 -------------------------------
 
 
-<h1> Description </h1>
+# Description
 
 A repo for a dynamic React proj which fetches data from RAWG api. 
 
@@ -105,6 +105,16 @@ Please make sure you cd on the folder where the main files are located.
 -Then open the terminal (gitbash is recommended but others might work well too)
 
 -Then type npm start to have a quick look of what the app looks like
+
+-------------
+
+Please note that this will show up because there is no route for React-WebApp/
+
+![Screenshot (76)](https://user-images.githubusercontent.com/105265074/192174206-b5258038-4149-4b36-b83f-9a20779d20d5.png)
+
+To get rid of this:
+Click on the home button.
+
 -----------------------------
 
 # For a quick review
