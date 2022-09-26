@@ -88,6 +88,12 @@ A repo for a dynamic React proj which fetches data from RAWG api.
 
 ---------------------
 
+# Video Link
+
+https://youtu.be/MPCkA78iXEE
+
+----------------
+
 # Contributor's guide
 
 -Make sure you have your code editor or vsc downloaded
