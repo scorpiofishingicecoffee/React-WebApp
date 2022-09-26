@@ -14,6 +14,9 @@ A repo for a React JS app which fetches api data from a rawg api.
 <a href="https://medium.com/@seriouslydudelma/906e89c0f52c" target="_blank"> Written blog </a>
 
 ---------------------
+# Video Link
+
+<a href="https://youtu.be/MPCkA78iXEE" target="_blank"> Video Link </a>
 
 # Contributor's guide
 
