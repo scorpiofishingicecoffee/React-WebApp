@@ -19,6 +19,7 @@ const Games = () => {
   useEffect(() => {
     fetchData();
   }, []);
+  
   return (
     <div className="Container">
       {users.map((users) => (

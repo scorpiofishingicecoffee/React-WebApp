@@ -29,7 +29,11 @@ const Stores = () => {
           <p>Slug Name: {users.slug}</p>
           <p>Games Count: {users.games_count}</p>
           <p>Domain:</p>
-          <p><a href={users.domain} target="_blank">{users.domain}</a></p>
+          <p>
+            <a href={users.domain} target="_blank">
+              {users.domain}
+            </a>
+          </p>
         </div>
       ))}
     </div>
